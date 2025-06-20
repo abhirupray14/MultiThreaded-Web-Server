@@ -1,5 +1,4 @@
 # MultiThreaded-Web-Server
-# Multi-Threaded Web Server
 
 ## Overview
 
